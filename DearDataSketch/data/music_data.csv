@@ -17,6 +17,19 @@ timestamp,artist,track,album,genre,activity
 2026-10-20 20:33,chandol,While I'm Gone,While I'm Gone,Lofi / Hip-Hop,Gaming
 2026-10-20 20:30,Green Day,Brain Stew,Insomniac,Punk Rock,Gaming
 2026-10-20 20:27,BoyWithUke,Rockstar,Rockstar,Indie Pop,Gaming
+2026-10-20 20:23,Tame Impala,Loser,Loser,Psychedelic Rock / Pop,Gaming
+2026-10-20 20:20,Muse,Supermassive Black Hole,Black Holes and Revelations,Alt-Rock,Gaming
+2026-10-20 20:14,Tame Impala,Eventually,Currents,Psychedelic Rock / Pop,Gaming
+2026-10-20 20:11,BoyWithUke,Nosedive,Antisocial,Indie Pop,Gaming
+2026-10-20 20:10,Joji,Love Me Better,LAST OF A DYING BREED,R&B / Alt-Pop,Gaming
+2026-10-20 20:06,Tyler The Creator,NEW MAGIC WAND,IGOR,Hip-Hop / Alt-Rap,Gaming
+2026-10-20 20:02,Kanye West,Flashing Lights,Graduation,Hip-Hop / Rap,Gaming
+2026-10-20 19:59,BoyWithUke,Blurry Nights,Fever Dreams,Indie Pop,Gaming
+2026-10-20 19:56,BoyWithUke,Heart Of Ice,Serotonin Dreams,Indie Pop,Gaming
+2026-10-20 19:53,Joji,Afterthought,Nectar,R&B / Alt-Pop,Gaming
+2026-10-20 19:47,Tame Impala,New Person Same Old Mistakes,Currents,Psychedelic Rock / Pop,Gaming
+2026-10-20 19:44,BoyWithUke,She Said No,Serotonin Dreams,Indie Pop,Gaming
+2026-10-20 19:40,Mac DeMarco,Chamber of Reflection,Salad Days,Indie Rock,Gaming
 2026-10-20 17:49,Tame Impala,One More Hour,The Slow Rush,Psychedelic Rock / Pop,Uni/studying
 2026-10-20 17:44,chandol,what's the rush?,What's The Rush?,Lofi / Hip-Hop,Uni/studying
 2026-10-20 17:42,Steve Lacy,Oh Yeah?,Oh Yeah?,Indie R&B / Funk,Uni/studying
@@ -36,13 +49,38 @@ timestamp,artist,track,album,genre,activity
 2026-10-20 16:41,Joji,Modus,Nectar,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:38,Joji,Your Man,Nectar,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:35,Joji,Nitrous,Nectar,R&B / Alt-Pop,Uni/studying
-2026-10-20 16:32,Joji,Normal People (feat. rei brown),Nectar,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:32,Joji,Normal People,Nectar,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:29,Joji,Tick Tock,Nectar,R&B / Alt-Pop,Uni/studying
-2026-10-20 16:26,Joji,Pretty Boy (feat. Lil Yachty),Nectar,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:26,Joji,Pretty Boy,Nectar,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:23,Joji,773 // Voodoo,In Tongues,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:19,Joji,Demons,In Tongues,R&B / Alt-Pop,Uni/studying
 2026-10-20 16:16,Joji,Window,In Tongues,R&B / Alt-Pop,Uni/studying
-2026-10-20 09:52,Mr Flintstone,She Bugging (Whatchu Gonna Do),She Bugging (Whatchu Gonna Do),Hip-Hop,Commuting to uni/work
+2026-10-20 16:13,Joji,Pills,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:10,Joji,Will He,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:07,Joji,Bitter Fuck,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:04,Joji,Worldstar Money,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 16:01,Joji,Plastic Taste,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:58,Joji,I Don't Wanna Waste My Time,In Tongues,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:54,Joji,ATTENTION,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:51,Joji,TEST DRIVE,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:48,Joji,WANTED U,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:45,Joji,CAN'T GET OVER YOU,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:41,Joji,NO FUN,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:38,Joji,COME THRU,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:35,Joji,R.I.P.,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:32,Joji,XNXX,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:29,Joji,I'LL SEE YOU IN 40,BALLADS 1,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:26,Joji,Glimpse of Us,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:23,Joji,Feeling Like The End,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:20,Joji,Die For You,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:17,Joji,Before The Day Is Done,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:14,Joji,Dissolve,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:10,Joji,NIGHT RIDER,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:07,Joji,Yukon,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:03,Joji,1AM FREESTYLE,SMITHEREENS,R&B / Alt-Pop,Uni/studying
+2026-10-20 15:00,BoyWithUke,Two Moons,Fever Dreams,Indie Pop,Uni/studying
+2026-10-20 14:56,BoyWithUke,Long Drives,Serotonin Dreams,Indie Pop,Uni/studying
+2026-10-20 09:52,Mr Flintstone,She Bugging (Whatchu Gonna Do),She Bugging,Hip-Hop,Commuting to uni/work
 2026-10-20 09:48,Khantrast,Lovesick,Lovesick,Nerdcore / Hip-Hop,Commuting to uni/work
 2026-10-20 09:46,Don Toliver,Tiramisu,Octane,Hip-Hop / Trap,Commuting to uni/work
 2026-10-20 09:42,Bad Bunny,DtMF,DeBÍ TiRAR MáS FOToS,Latin / Reggaeton,Commuting to uni/work
@@ -50,6 +88,13 @@ timestamp,artist,track,album,genre,activity
 2026-10-20 07:36,Childish Gambino,Heartbeat,Camp,Hip-Hop / R&B,Commuting to uni/work
 2026-10-20 07:32,Kendrick Lamar,Bitch Don't Kill My Vibe,good kid m.A.A.d city,Hip-Hop / Rap,Commuting to uni/work
 2026-10-20 07:28,Tyler The Creator,See You Again,Flower Boy,Hip-Hop / Alt-Rap,Commuting to uni/work
+2026-10-20 07:24,Frank Ocean,Nights,Blonde,R&B / Soul,Commuting to uni/work
+2026-10-20 07:20,The Weeknd,Save Your Tears,After Hours,R&B / Synthpop,Commuting to uni/work
+2026-10-20 07:16,Post Malone,Sunflower,Spider-Man,Hip-Hop / Pop,Commuting to uni/work
+2026-10-20 07:12,Baby Keem,vent,The Melodic Blue,Hip-Hop / Rap,Commuting to uni/work
+2026-10-20 07:08,Playboi Carti,Shoota,Die Lit,Hip-Hop / Trap,Commuting to uni/work
+2026-10-19 09:50,Green Day,American Idiot,American Idiot,Punk Rock,Commuting to uni/work
+2026-10-19 09:45,Citizen,The Summer,Youth,Alt-Rock / Emo,Commuting to uni/work
 2026-10-19 06:59,Kanye West,I Wonder,Graduation,Hip-Hop / Rap,Asleep
 2026-10-19 06:56,BoyWithUke,Shy,Fever Dreams,Indie Pop,Asleep
 2026-10-19 06:48,Tame Impala,Let It Happen,Currents,Psychedelic Rock / Pop,Asleep
